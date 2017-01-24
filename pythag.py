@@ -3,7 +3,7 @@
 #
 #  pythag.py
 #  
-#  Copyright 2017 Jesse Rominske <bonkie@ALTRON-UbuntuStudio>
+#  Copyright 2017 Jesse Rominske
 #  
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
